@@ -1,0 +1,1 @@
+export { getZodiacSign } from './horoscope';
